@@ -48,4 +48,4 @@ docker run -it \
     --network host \
     -v /mnt/homes/$CURRENT_USER/goinfre/rootKali:/root/workdir \
     kalilinux/kali-rolling \
-    /bin/bash
+    /bin/bash -c "apt update && echo 'System updated! Now in Kali Linux environment.' && /bin/bash"
