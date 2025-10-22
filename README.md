@@ -17,6 +17,7 @@ This is designed for environments where you can’t install software (for exampl
 
 Important: The container starts empty. You must install the tools you need inside the container (run `apt update` first).
 
+![Kali Linux Docker] (kaliTerminal.png)
 ---
 
 ## What the script does
