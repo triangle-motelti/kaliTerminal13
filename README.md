@@ -1,6 +1,7 @@
 <div align="center">
 
 # ``kaliTerminal13``
+![Alt text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJlNjhlZWxhYXVmMWNxYzdqbGQ0Y3ozZ2N4ZWhxMXFydGZzM3B2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif)
 
 </div>
 
